@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923750918229",
+    "firebase_url": "https://visualaid-beb6a.firebaseio.com",
+    "project_id": "visualaid-beb6a",
+    "storage_bucket": "visualaid-beb6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923750918229:android:40df5983fe1bbeb7",
+        "android_client_info": {
+          "package_name": "com.example.nayem.visualaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923750918229-87kf28v3ibac3ugvrstb26mvuio637c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nayem.visualaid",
+            "certificate_hash": "a50fa5dd4e29bd6d0090daf697354a83e20bf91f"
+          }
+        },
+        {
+          "client_id": "923750918229-r9pb6ppsd1kl2g9eamglkqlecau1p9lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8A3junQ8GWDw9U--gSqh3RgtTWinNtuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923750918229-r9pb6ppsd1kl2g9eamglkqlecau1p9lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
